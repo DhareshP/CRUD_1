@@ -15,4 +15,4 @@ Schema is a json object that contains structure and contents of our data(documen
 Additional changes:
 - .env file to connect via available port and to initialize localhost.
 - changes made to the package.json file, "type":"module" and "scripts"{"start":"node index.js"}
-  for mode about why to use "type":"module" [see more]([url](https://nodejs.org/docs/latest-v13.x/api/esm.html#esm_enabling))".
+  for mode about why to use "type":"module" [see more](https://nodejs.org/docs/latest-v13.x/api/esm.html#esm_enabling))".
